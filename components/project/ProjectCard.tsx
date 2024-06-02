@@ -26,7 +26,9 @@ const ProjectCard = (props: ProjectCardProps) => (
         </figure>
       }
       { props.video &&
-        <Example id={props.video}/>
+        <div className="videoWrapper">
+          <Example id={props.video}/>
+        </div>
       }
     </div>
     <div className="card-content">

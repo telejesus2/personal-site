@@ -12,8 +12,8 @@ export default function Example(prop: VideoProps) {
   }
 
   const opts: YouTubeProps['opts'] = {
-    height: '330',
-    width: '440',
+    // height: '330',
+    // width: '440',
     playerVars: {
       // https://developers.google.com/youtube/player_parameters
       autoplay: 1,

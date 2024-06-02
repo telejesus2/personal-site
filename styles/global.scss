@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+/*** Bulma ***/
+$purple-blue: #485fc7;
+//$celadon: #afe1af;
+$celadon: #3cb371;
+$primary: $celadon;
+
+@import 'bulma/bulma';  // TODO we should only import the Bulma elements that we actually use
+
+/*** Font Awesome icons ***/
+@import '~@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import '~@fortawesome/fontawesome-free/scss/solid.scss';
+@import '~@fortawesome/fontawesome-free/scss/brands.scss';
+
+/*** My custom styles ***/
+.is-shadowed {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

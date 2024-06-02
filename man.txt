@@ -1,0 +1,13 @@
+
+# update dependencies and run locally
+
+npm install
+npm outdated
+npm update
+npx @next/codemod next-image-to-legacy-image . --force 
+npx @next/codemod new-link . --force
+npm run dev
+
+# deploy on vercel
+
+export NODE_OPTIONS=--openssl-legacy-provider && next build 

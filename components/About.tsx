@@ -26,7 +26,7 @@ const About = () => (
         <div className="content">
           
           <p>
-            I received my M.Sc. degree in mathematics and computer vision at IP Paris - Télécom ParisTech and Paris-Saclay University - ENS Cachan (M.Sc. MVA), in 2019.  As part of my master’s studies, I spent one semester at Shanghai Jiao Tong University in 2018. I am currently pursuing my Ph.D. at MINES Paris - PSL under the supervision of Fabien Moutarde, where my main research areas are reinforcement learning, computer vision, and robotics.
+            I received my M.Sc. degree in mathematics and computer vision at IP Paris - Télécom ParisTech and Paris-Saclay University - ENS Cachan (M.Sc. MVA), in 2019.  As part of my master’s studies, I spent one semester at Shanghai Jiao Tong University in 2018. I received my Ph.D. at MINES Paris - PSL under the supervision of Fabien Moutarde, in 2024. My main research areas are reinforcement learning, computer vision, and robotics.
           </p>
 
           <div className="columns">

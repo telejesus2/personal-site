@@ -10,7 +10,7 @@ const linksMetadata: LinkButtonMetadata[] = [
     icon: 'fab fa-github fa-lg'
   },
   {
-    href: 'mailto:jesus.bujalance_martin@mines-paristech.fr',
+    href: 'mailto:jebumagoma@gmail.com',
     icon: 'fas fa-envelope fa-lg'
   }
 ];

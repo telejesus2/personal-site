@@ -14,7 +14,7 @@ const Hero = () => (
           Jesús Bujalance Martín
         </h1>
         <div className="subtitle is-3">
-          PhD candidate in Machine Learning
+          PhD in Machine Learning
         </div>
       </div>
     </div>
